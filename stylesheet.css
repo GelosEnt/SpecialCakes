@@ -1,0 +1,113 @@
+
+body{
+    background-image:url(Images/Special_Cakes_Background.jpg) ;
+    background-size:100% ;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;}
+
+footer{
+    font-weight: bolder;}
+
+img{border: #0c243c 2px solid;}
+
+h1{
+    font-size: 60px;
+    color:#0c243c;
+    text-shadow: 4px 4px 4px gray;}
+
+h2{
+    font-size: 60px;
+    color:#e94d40;
+    text-shadow: 4px 4px 4px gray;}
+
+h3{
+    font-size: 48px;
+    text-shadow: 4px 4px 4px gray;;
+    color:#0c243c;}
+
+h4{
+    font-size: 50px;
+    font-weight: 900;
+    color:#0c243c;}
+
+h5{ font-size: 100px;
+    color: #e94d40;}
+
+.VISIT{
+    font-size: 35px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight:1000;
+    color: #0c243c;
+    background-color:pink;
+    border:#0c243c 5px solid;
+    border-collapse:collapse;
+    border-radius: 10px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;}
+
+.HOURS, .HOURS tr, .HOURS th, .HOURS td{
+    font-size: 35px;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    background-color:aquamarine;
+    border:#0c243c 5px double;
+    border-collapse: collapse;
+    border-radius: 10px;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;}
+
+ .LINKS, .LINKS th .LINKS tr, .LINKS td{
+    color: #e94d40;
+    font-size: 50px;
+    font-weight: 900;
+    margin-left: auto;
+    margin-right: auto;
+    width: fit-content;}
+
+.PRICES, .PRICES tr, .PRICES th, .PRICES td{
+    font-size: 60px;
+    font-weight: 900;
+    color: #e94d40;
+    border: 4px black solid;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right:auto;
+    width: fit-content;}
+
+.D_CAKES, .D_CAKES tr, .D_CAKES th, .D_CAKES td{
+    font-size: 40px;
+    color: #e94d40;
+    font-weight: bolder;
+    margin-left: auto;
+    margin-right:auto;
+    width: fit-content;}
+
+.ORDER{
+    font-size: 40px;
+    color: #e94d40;
+    font-weight: bolder;
+    border: 5px black solid;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;}
+
+.JOBS, .JOBS tr, .JOBS th, .JOBS td{
+    font-size: 35px;
+    color: #e94d40;
+    font-weight: 900;
+    border: 6px #0c243c solid  ;
+    border-collapse: collapse;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;}
+
+.CONTACT{
+    font-size: 40px;
+    color: #e94d40;
+    font-weight: bolder;
+    border: 5px black solid;
+    width: fit-content;
+    margin-left: auto;
+    margin-right: auto;}
